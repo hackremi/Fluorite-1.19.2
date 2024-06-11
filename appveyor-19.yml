@@ -5,7 +5,7 @@ branches:
   only:
     - 1.19
 environment:
-  JAVA_HOME: C:\Program Files\Java\jdk17
+  JAVA_HOME: D:\JAVA\JAVA17
 cache:
   - C:/Users/appveyor/.gradle
   - ./.gradle
